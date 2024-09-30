@@ -1,0 +1,2 @@
+# js-dino
+Practicing javascript
